@@ -1,2 +1,3 @@
 Voici mon premier document.
 Je le modifie un peu en local.
+Maintenant je le modifie sur Github directement.
